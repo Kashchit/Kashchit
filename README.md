@@ -1,24 +1,35 @@
-👋 Hi, I'm Kashchit
-Welcome to my GitHub profile! I'm excited to share a bit about myself with you.
+👋 Hi, I'm Kashchit!
+Welcome to my GitHub profile! I'm a Data Science major passionate about AI, ML, and software development. I thrive on solving complex problems, optimizing systems, and building innovative solutions that make a real-world impact.
 
-👀 About Me
-I'm a passionate tech enthusiast with a keen interest in all things related to artificial intelligence, machine learning, and software development. When I'm not coding, you'll often find me exploring the latest tech trends, or enjoying a cup of coffee—always with headphones on.
+🚀 About Me
+🎓 Majoring in Data Science, with electives in Full Stack Development & Cloud Computing
 
-🌱 What I'm Learning
-I'm currently pursuing a major in Data Science, with a strong focus on AI, ML, and data-driven decision-making. Alongside my core studies, I'm diving into Full Stack Development and Cloud Computing as part of my professional electives. Additionally, I'm exploring FinTech (Blockchain & Generative AI) as my minor. I love expanding my knowledge, whether it's mastering a new framework, exploring Web3, or understanding quantum computing.
+🔗 Minoring in FinTech, specializing in Blockchain & Generative AI
 
-💞️ Collaboration
-I'm open to collaborating on exciting projects. If you have a cool idea or you're working on something innovative, don't hesitate to reach out. Let's create something amazing together!
+💡 Interested in AI-driven solutions, scalable web applications, and financial technology
 
-📫 How to Reach Me
-You can connect with me on various platforms:
+🏋️ Outside of tech, I enjoy playing sports and hitting the gym to stay active and balanced
 
-GitHub: github.com/Kashchit
+🔥 What I’m Working On
+Full Stack Development – Designing and deploying dynamic, user-friendly applications
 
-LinkedIn: linkedin.com/in/kashchit-bikram-thapa-7b7384282
+Machine Learning & AI – Building intelligent systems and optimizing performance
 
-Instagram: @thapa_b_kashchit
+Blockchain & FinTech – Exploring DeFi, smart contracts, and real-world financial applications
 
-Email: thapakashchitbikram@gmail.com
+Cloud Computing – Deploying and managing scalable infrastructure
 
-Feel free to reach out for a chat, collaboration, or just to say hello. I'm always up for interesting discussions and new connections. Thanks for visiting my profile—I look forward to connecting with you!
+💡 Let's Connect & Collaborate!
+I'm always open to collaborations, networking, and exciting projects in AI, web development, fintech, and beyond.
+
+📩 Reach out to me:
+
+🔗 GitHub: github.com/Kashchit
+
+💼 LinkedIn: linkedin.com/in/kashchit-bikram-thapa-7b7384282
+
+📸 Instagram: @thapa_b_kashchit
+
+✉️ Email: thapakashchitbikram@gmail.com
+
+Thanks for visiting my profile—let’s build something amazing together! 🚀
